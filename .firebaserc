@@ -1,0 +1,10 @@
+{
+  "projects": {
+    "default": "apex-men-consulting",
+    "dev": "apex-men-consulting-dev",
+    "staging": "apex-men-consulting-staging",
+    "production": "apex-men-consulting"
+  },
+  "targets": {},
+  "etags": {}
+}
